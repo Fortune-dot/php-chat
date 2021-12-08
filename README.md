@@ -1,4 +1,4 @@
-# Chat Application using PHP with MySQL & Ajax
+# Chat Application using PHP with MySQL & Ajax👩‍💻👩‍💻
 
 version: 1.0.0
 
@@ -11,10 +11,6 @@ version: 1.0.0
 1. HTML
 1. CSS
 
-## Full Tutorial
+# Create DATABASE and Import Table attatched in source code DB Folder
 
-[On Youtube](https://youtu.be/JLnsWkQ-iB8)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
+Made with 💖 by Langat Fortune
